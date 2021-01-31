@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Outlook Cleanup
+// @name        Outlook Cleanup
 // @version     0.1.0
 // @namespace   https://andys-net.co.uk/
 // @homepageURL https://andys-net.co.uk/
