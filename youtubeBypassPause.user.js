@@ -17,7 +17,7 @@
         if ( els.length > 0 ){
             els.forEach( el => {
                 if ( el.innerText == 'Video paused. Continue watching?' ){
-                    el.parentNode.parentNode.querySelector( '#confirm-button' ).click();
+                    el.parentNode.parentNode.parentNode.querySelector( '#confirm-button' ).click();
                 }
             });
         }
